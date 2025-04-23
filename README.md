@@ -27,5 +27,5 @@ Fuzzy Logic adalah pendekatan logika yang mampu menangani nilai **ambiguitas ata
 - **Fuzzification**: Mengubah nilai numerik ke dalam bentuk fuzzy
 - **Inference (Aturan IF-THEN)**: Menyusun aksi berdasarkan kombinasi kondisi fuzzy
 - **Defuzzification**: Mengubah hasil fuzzy menjadi angka pasti
-- 
+  
 📌 Dalam studi kasus ini, sistem fuzzy digunakan untuk **mengatur kecepatan kipas** berdasarkan suhu 🌡️ dan kelembaban 💧. Aturan fuzzy yang kamu buat memungkinkan sistem bekerja **secara fleksibel dan adaptif terhadap perubahan lingkungan**.
