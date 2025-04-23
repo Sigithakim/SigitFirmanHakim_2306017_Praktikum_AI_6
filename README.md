@@ -1,7 +1,3 @@
-Siap Git, ini versi README kamu yang rapi dan menarik, lengkap dengan emoji biar enak dibaca dan tetap profesional:
-
----
-
 # Tugas-CF-Fuzzy_Logic
 
 ## Certainty Factor (CF)
